@@ -9,4 +9,4 @@ https://pbain63.github.io/-capstone-project_2_personal_site/
 
 
 
-Technology: HTML, CSS, Bootstrap, Canva
+Technology: HTML5, CSS3, Bootstrap, Canva
